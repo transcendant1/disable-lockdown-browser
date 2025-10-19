@@ -1,0 +1,86 @@
+writeup.md
+# Build artifacts
+*.o
+*.obj
+*.ko
+*.mod
+*.smod
+*.lib
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.d
+*.gch
+*.pch
+
+# Debugging and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+*~
+.#*
+
+# Visual Studio specific files
+.vs/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.suo
+*.user
+*.ncb
+*.aps
+*.bsc
+*.ilk
+*.ipch
+*.log
+*.obj
+*.pdb
+*.res
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.pbr
+*.rsp
+*.sbr
+*.tds
+*.vsp
+*.vspx
+*.wrn
+*.wpr
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+x64/
+Win32/
+
+# CMake specific files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CPackConfig.cmake
+_CPack_Packages/
+DartConfiguration.tcl
+Testing/
+install/
+out/
+build/
+
+# CLion specific files
+.idea/
+
+# Other IDE files (e.g., VS Code)
+.vscode/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# User-specific configuration files
+*.local
