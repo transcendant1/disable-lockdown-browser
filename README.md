@@ -1,6 +1,8 @@
 # disable-lockdown-browser
 Disable lockdown for lockdown browser. Works on Windows, Mac, Linux, Chromebook, Managed Computer, etc. 
 
+View details here: https://lockdown-browser-bypass.vercel.app
+
 # Features
 - Undetectable - Even if program crashes, you will NEVER be flagged or banned
 - Screenshot capture - Capture screenshot
